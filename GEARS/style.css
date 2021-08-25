@@ -219,7 +219,7 @@ footer {
   /* -----------------media---------------- */
   @media (max-width: 991.98px) { 
    .banner-image{
-     background-image: url('img/plp.png');
+     background-image: url('plp.png');
    }
    .ty,.tl{
 text-align: center!important; }
